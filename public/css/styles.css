@@ -1,0 +1,54 @@
+h3{
+    display: inline-block;
+    font-family: sans-serif ;
+    font-weight: lighter;
+}
+h1{
+    font-family: sans-serif ;
+    font-weight: lighter;
+}
+a{
+    margin: 0 10px;
+    text-decoration: none;
+    color: gray;
+}
+a:hover{
+    color: aqua;
+}
+body{
+    margin: 0;
+    font-family: sans-serif ;
+    font-weight: lighter;
+}
+.links{
+    margin-left: 35rem;
+    display: inline-block;
+}
+.head{
+    background-color: rgb(243, 194, 88);
+    padding: 2rem 20rem;
+}
+.content{
+    padding: 4rem 20rem;
+    margin-bottom: 2%;
+}
+footer{
+    text-align: center;
+    padding-top: 1rem;
+    position:absolute;
+    bottom:0;
+    width:100%;
+    height:60px;
+    background: rgb(245, 199, 99);
+}
+.text{
+    width: 100%;
+    margin: 1rem 0 ;
+}
+.paragraph{
+    height: 10rem;
+}
+button{
+    background-color: rgb(245, 199, 99);
+    border-radius: 10%;
+}
